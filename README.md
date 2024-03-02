@@ -33,9 +33,17 @@
 -----------------------------------
 
 ## 주요 링크
-1. [DB Browser for SQLite download](https://sqlitebrowser.org/dl/) <br>
+1. [Python download](https://www.python.org/downloads/) <br>
 2. [VSCode download](https://code.visualstudio.com) <br>
-3. [RPA 참고자료](https://wikidocs.net/137959) <br>
+* 설치 VSCode Extension
+ Korean Language Pack for Visual Studio
+ Python
+ Python Extension Pack
+ Jupyter
+ indent-rainbow
+ LiveCode for python
+3. [VirtualBox 다운로드] (https://www.virtualbox.org/wiki/Downloads) <br>
+
 <br><br>
 
 
