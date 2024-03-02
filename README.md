@@ -35,13 +35,13 @@
 ## 주요 링크
 1. [Python download](https://www.python.org/downloads/) <br>
 2. [VSCode download](https://code.visualstudio.com) <br>
-* 설치 VSCode Extension
- Korean Language Pack for Visual Studio
- Python
- Python Extension Pack
- Jupyter
- indent-rainbow
- LiveCode for python
+* 설치 VSCode Extension<br>
+ Korean Language Pack for Visual Studio<br>
+ Python<br>
+ Python Extension Pack<br>
+ Jupyter<br>
+ indent-rainbow<br>
+ LiveCode for python<br>
 3. [VirtualBox 다운로드] (https://www.virtualbox.org/wiki/Downloads) <br>
 
 <br><br>
