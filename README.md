@@ -42,7 +42,7 @@
  Jupyter<br>
  indent-rainbow<br>
  LiveCode for python<br>
-3. [VirtualBox 다운로드] (https://www.virtualbox.org/wiki/Downloads) <br>
+3. [VirtualBox 다운로드](https://www.virtualbox.org/wiki/Downloads) <br>
 
 <br><br>
 
