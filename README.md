@@ -2,9 +2,9 @@
 <br>
 
 ## 안내
-1.중간고사 문제 업로드 <br>
-2. 9주차 강의안 업로드 (2024-04-29)
-<br><br>
+1. 10주차 강의안 업로드 (2024-05-07) 
+2. 중간고사 문제 업로드 (2024-05-09 삭제 예정)<br>
+<br>
 
 -----------------------------------
 # 실습파일 제출 요령
@@ -41,7 +41,6 @@
  Python<br>
  Python Extension Pack<br>
  indent-rainbow<br>
-3. [VirtualBox 다운로드](https://www.virtualbox.org/wiki/Downloads) <br>
 
 <br><br>
 
